@@ -1,0 +1,10 @@
+{
+  "name": "sky-fighters-3d",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sky Fighters 3D - game pesawat tempur 3D dengan kontrol ESP32 + MPU6050",
+  "scripts": {
+    "dev": "npx serve public",
+    "deploy": "npx vercel --prod"
+  }
+}
